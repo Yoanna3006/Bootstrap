@@ -1,0 +1,15 @@
+body {
+    padding: 0px 110px;
+}
+
+.buttons a,
+i {
+    margin-right: 40px;
+    text-decoration: none;
+    color: gray;
+}
+
+.buttons i:hover,
+a:hover {
+    color: rgb(52, 139, 238);
+}
